@@ -1,0 +1,105 @@
+{
+  "shortDescription": "Challenge your knowledge of Phaver!",
+  "questions": [
+    {
+      "question": "What is Phaver?",
+      "answers": ["Social Media", "Game", "DEX"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which protocol Phaver allows crossposting on?",
+      "answers": ["Lens", "Farcaster", "Both"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "How many Levels are there on Phaver?",
+      "answers": ["Two", "Four", "Five"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "To level up on Phaver, what do you need?",
+      "answers": ["Creds", "Points", "Phaves"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "How many creds do you need for L2?",
+      "answers": ["10", "100", "250"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Creds reset in how many days?",
+      "answers": ["10", "30", "20"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "1000 creds in 30 days will get you which level?",
+      "answers": ["L2", "L4", "L5"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Posting on Phaver earns you?",
+      "answers": ["Creds", "Tokens", "Points"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "How many points are charged for Super Post?",
+      "answers": ["50", "500", "0"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "How many points are charged for Premium Post?",
+      "answers": ["10", "50", "100"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Creds can be earned by?",
+      "answers": ["NFTs", "Badges", "Both"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "What is the name of official NFT project on Phaver?",
+      "answers": ["Phaver UP", "Phaverite", "PhavNFT"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Phaver season 1 airdrop is called?",
+      "answers": ["Airdrop", "Phairdrop", "Phavair"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Can you post on farcaster directly from Phaver?",
+      "answers": ["Yes", "No", "Maybe"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "How many daily phaves L2 gets?",
+      "answers": ["5", "10", "20"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "How many daily phaves L4 gets?",
+      "answers": ["10", "20", "40"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Staking your phaves early on a super or premium post earns you?",
+      "answers": ["Points", "Creds", "Both"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "L5 gets 40 phaves daily?",
+      "answers": ["Yes", "No", "No idea"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "How many creds do you need for L5?",
+      "answers": ["250", "1000", "3000"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "How many creds Phaver UP NFT earn daily?",
+      "answers": ["20", "35", "50"],
+      "correctAnswerIndex": 2
+    }
+  ]
+}
