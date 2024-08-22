@@ -100,11 +100,7 @@ app.frame('/result', async c => {
   const intents = [<Button action="/">🔁 Again</Button>]
 
   if (!isWin) {
-    // if user authorized navigate to answers, if not direct to authorize
-    intents.push(<Button action={userDelegatedAddress ? '/answers' : '/authorize'}>🙋 Answers</Button>)
-  }
-
-  intents.push(<Button.Link href="https://phaver.app.link/rxm">🔴 Follow Creator</Button.Link>)
+  intents.push(<Button.Link href="https://phaver.app.link/rxm"> Follow Me</Button.Link>)
 
   return c.res({
     title: appTitle,
