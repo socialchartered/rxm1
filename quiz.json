@@ -7,17 +7,17 @@
       "correctAnswerIndex": 2
     },
     {
-      "question": "How many Levels are there on Phaver?",
+      "question": "Number of Levels on Phaver?",
       "answers": ["Two", "Four", "Five"],
       "correctAnswerIndex": 2
     },
     {
-      "question": "To level up on Phaver, you need?",
+      "question": "Required to level up on Phaver?",
       "answers": ["Creds", "Points", "Phaves"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "How many creds do you need for L2?",
+      "question": "Creds needed for L2?",
       "answers": ["10", "100", "250"],
       "correctAnswerIndex": 0
     },
@@ -27,7 +27,7 @@
       "correctAnswerIndex": 1
     },
     {
-      "question": "1000 creds in 30 days required for?",
+      "question": "1000 creds in 30 days to get?",
       "answers": ["L2", "L4", "L5"],
       "correctAnswerIndex": 2
     },
@@ -37,12 +37,12 @@
       "correctAnswerIndex": 2
     },
     {
-      "question": "How many points are charged for Super Post?",
+      "question": "Points charged for Super Post?",
       "answers": ["50", "500", "0"],
       "correctAnswerIndex": 1
     },
     {
-      "question": "How many points are charged for Premium Post?",
+      "question": "Points charged for Premium Post?",
       "answers": ["10", "50", "100"],
       "correctAnswerIndex": 1
     },
@@ -57,17 +57,12 @@
       "correctAnswerIndex": 0
     },
     {
-      "question": "Phaver season 1 airdrop is called?",
-      "answers": ["Airdrop", "Phairdrop", "Phavair"],
-      "correctAnswerIndex": 1
-    },
-    {
-      "question": "How many daily phaves L2 gets?",
+      "question": "Daily phaves L2 gets?",
       "answers": ["5", "10", "20"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "How many daily phaves L4 gets?",
+      "question": "Daily phaves L4 gets?",
       "answers": ["10", "20", "40"],
       "correctAnswerIndex": 1
     },
@@ -82,12 +77,12 @@
       "correctAnswerIndex": 0
     },
     {
-      "question": "How many creds do you need for L5?",
+      "question": "Creds needed for L5?",
       "answers": ["250", "1000", "3000"],
       "correctAnswerIndex": 2
     },
     {
-      "question": "How many creds PhaverUP NFT earn daily?",
+      "question": "Creds earned by PhaverUP daily?",
       "answers": ["20", "35", "50"],
       "correctAnswerIndex": 2
     }
