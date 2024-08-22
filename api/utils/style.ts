@@ -16,7 +16,7 @@ export const cardStyle = {
 export const textStyle = {
   display: 'flex',
   color: 'white',
-  fontSize: 20,
+  fontSize: 40,
   fontStyle: 'normal',
   letterSpacing: '-0.025em',
   lineHeight: 1.4,
@@ -40,12 +40,12 @@ export const { Box, Heading, Text, VStack, vars } = createSystem({
       {
         name: 'Inter',
         source: 'google',
-        weight: 400,
+        weight: 200,
       },
       {
         name: 'Inter',
         source: 'google',
-        weight: 600,
+        weight: 300,
       },
     ],
   },
