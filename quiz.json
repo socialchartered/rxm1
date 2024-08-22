@@ -2,12 +2,7 @@
   "shortDescription": "Challenge your knowledge of Phaver!",
   "questions": [
     {
-      "question": "What is Phaver?",
-      "answers": ["Social Media", "Game", "DEX"],
-      "correctAnswerIndex": 0
-    },
-    {
-      "question": "Which protocol Phaver allows crossposting on?",
+      "question": "Phaver allows crossposting on?",
       "answers": ["Lens", "Farcaster", "Both"],
       "correctAnswerIndex": 2
     },
@@ -17,7 +12,7 @@
       "correctAnswerIndex": 2
     },
     {
-      "question": "To level up on Phaver, what do you need?",
+      "question": "To level up on Phaver, you need?",
       "answers": ["Creds", "Points", "Phaves"],
       "correctAnswerIndex": 0
     },
@@ -32,7 +27,7 @@
       "correctAnswerIndex": 1
     },
     {
-      "question": "1000 creds in 30 days will get you which level?",
+      "question": "1000 creds in 30 days required for?",
       "answers": ["L2", "L4", "L5"],
       "correctAnswerIndex": 2
     },
@@ -57,7 +52,7 @@
       "correctAnswerIndex": 2
     },
     {
-      "question": "What is the name of official NFT project on Phaver?",
+      "question": "official NFT project of Phaver?",
       "answers": ["Phaver UP", "Phaverite", "PhavNFT"],
       "correctAnswerIndex": 0
     },
@@ -65,11 +60,6 @@
       "question": "Phaver season 1 airdrop is called?",
       "answers": ["Airdrop", "Phairdrop", "Phavair"],
       "correctAnswerIndex": 1
-    },
-    {
-      "question": "Can you post on farcaster directly from Phaver?",
-      "answers": ["Yes", "No", "Maybe"],
-      "correctAnswerIndex": 0
     },
     {
       "question": "How many daily phaves L2 gets?",
@@ -82,7 +72,7 @@
       "correctAnswerIndex": 1
     },
     {
-      "question": "Staking your phaves early on a super or premium post earns you?",
+      "question": "Staking your phaves earns you?",
       "answers": ["Points", "Creds", "Both"],
       "correctAnswerIndex": 0
     },
@@ -97,7 +87,7 @@
       "correctAnswerIndex": 2
     },
     {
-      "question": "How many creds Phaver UP NFT earn daily?",
+      "question": "How many creds PhaverUP NFT earn daily?",
       "answers": ["20", "35", "50"],
       "correctAnswerIndex": 2
     }
