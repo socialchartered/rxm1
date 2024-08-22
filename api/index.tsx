@@ -82,7 +82,7 @@ app.frame('/next', async c => {
           <Heading color="h1Text" align="center" size="64">
             {quiz.questions[questionIndex].question}
           </Heading>
-          <Text align="center" size="18">
+          <Text align="center" size="10">
             Question: {questionIndex + 1}/{quiz.questions.length}
           </Text>
         </VStack>
@@ -212,7 +212,7 @@ app.frame('/authorize', async c => {
             {!errorText && text}
           </Heading>
 
-          <Text align="center" size="18">
+          <Text align="center" size="10">
             {errorText && `Error: ${errorText}`}
           </Text>
         </VStack>
