@@ -57,17 +57,17 @@
       "correctAnswerIndex": 0
     },
     {
-      "question": "Daily phaves L2 gets?",
+      "question": "Daily phaves L2 get?",
       "answers": ["5", "10", "20"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "Daily phaves L4 gets?",
+      "question": "Daily phaves L4 get?",
       "answers": ["10", "20", "40"],
       "correctAnswerIndex": 1
     },
     {
-      "question": "Staking your phaves earns you?",
+      "question": "Staking your phaves earn?",
       "answers": ["Points", "Creds", "Both"],
       "correctAnswerIndex": 0
     },
