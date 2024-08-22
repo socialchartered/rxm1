@@ -16,7 +16,7 @@ export const cardStyle = {
 export const textStyle = {
   display: 'flex',
   color: 'white',
-  fontSize: 30,
+  fontSize: 20,
   fontStyle: 'normal',
   letterSpacing: '-0.025em',
   lineHeight: 1.4,
