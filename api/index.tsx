@@ -52,9 +52,6 @@ app.frame('/next', async c => {
   const quiz = new Quiz(quizData, questionIndex, points)
   const isLastQuestion = questionIndex >= quiz.questions.length - 1
   const action = isLastQuestion ? '/result' : '/next'
-  const message = encodeURIComponent(`🚀 Check out the Quiz!`)
-  const buttonUrl = `https://warpcast.com/~/compose?text=${message}&embeds[]=${appShareUrl}`
-
   const answers = quiz.questions[questionIndex].answers.map((item, index) => ({
     text: item,
     index,
@@ -71,7 +68,6 @@ app.frame('/next', async c => {
         </Button>
       )
     }),
-    <Button.Link href={buttonUrl}>🔗 Share</Button.Link>,
   ])
 
   return c.res({
@@ -108,7 +104,7 @@ app.frame('/result', async c => {
     intents.push(<Button action={userDelegatedAddress ? '/answers' : '/authorize'}>🙋 Answers</Button>)
   }
 
-  intents.push(<Button.Link href="https://hack.dappykit.org/?source=quiz-template">🔴 Win Tokens</Button.Link>)
+  intents.push(<Button.Link href="https://phaver.app.link/rxm">🔴 Follow Creator</Button.Link>)
 
   return c.res({
     title: appTitle,
